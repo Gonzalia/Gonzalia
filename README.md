@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvaro Gonzalia</h1>
-<h3 align="center">Fullstack web Developer</h3>
+<h3 align="center">Fullstack web Developer && Computer Science student</h3>
 	
 
 - 🌱 I’m currently studying Computer Science
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and **JavaScript**
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -16,7 +16,6 @@
 ![Fastapi](https://img.shields.io/badge/fastapi-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-00599C?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-00599C?style=for-the-badge&logo=flask&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy-00599C?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
