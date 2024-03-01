@@ -3,19 +3,21 @@
 	
 
 - 🌱 I’m currently studying Computer Science
-- 💬 Ask me about **Python** and **JavaScript**
+- 💬 Ask me about **Python**, **JavaScript** and **TypeScript**
 
 ### 🛠 &nbsp;Languages and Tools
-
-![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=lightblue)
 ![JavaScript](https://img.shields.io/badge/javascript-00599C?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=yellow)
 <br/>
 
 ### 🛠 &nbsp;Frameworks
 ![React](https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/express-00599C?style=for-the-badge&logo=express&logoColor=white)
+![NextJS](https://img.shields.io/badge/nextjs-00599C?style=for-the-badge&logo=next&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=next&logoColor=white)
 ![Fastapi](https://img.shields.io/badge/fastapi-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-00599C?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-00599C?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
