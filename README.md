@@ -7,16 +7,13 @@
 
 ### 🛠 &nbsp;Languages and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=lightblue)
-![JavaScript](https://img.shields.io/badge/javascript-00599C?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=yellow)
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=.net&logoColor=white)
 <br/>
 
 ### 🛠 &nbsp;Frameworks
 ![React](https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white)
 ![Express](https://img.shields.io/badge/express-00599C?style=for-the-badge&logo=express&logoColor=white)
-![NextJS](https://img.shields.io/badge/nextjs-00599C?style=for-the-badge&logo=next&logoColor=white)
-![NodeJS](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=next&logoColor=white)
-![Fastapi](https://img.shields.io/badge/fastapi-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=node.js&logoColor=green)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
