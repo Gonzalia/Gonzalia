@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvaro Gonzalia</h1>
-<h3 align="center">Fullstack web Developer && Computer Science student</h3>
+<h3 align="center">Fullstack mobile Developer && Computer Science student</h3>
 	
 
 - 🌱 I’m currently studying Computer Science
-- 💬 Ask me about **Python**, **JavaScript** and **TypeScript**
+- 💬 Ask me about **C#** and **TypeScript**
 
 ### 🛠 &nbsp;Languages and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=lightblue)
