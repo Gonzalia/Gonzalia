@@ -3,18 +3,18 @@
 	
 
 - 🌱 I’m currently studying Computer Science
-- 💬 Ask me about **C#** and **TypeScript**
+- 💬 Ask me about **Python** and **TypeScript**
 
 ### 🛠 &nbsp;Languages and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=lightblue)
-![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 
 ### 🛠 &nbsp;Frameworks
 ![React](https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white)
-![Express](https://img.shields.io/badge/express-00599C?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=node.js&logoColor=green)
-
+![FastAPI](https://img.shields.io/badge/fastapi-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-00599C?style=for-the-badge&logo=django&logoColor=green)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
