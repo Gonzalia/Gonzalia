@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro Gonzalia</h1>
-<h3 align="center">Fullstack mobile Developer && Computer Science student</h3>
+<h3 align="center">Mobile & Backend Developer - Computer Science student</h3>
 	
 
 - 🌱 I’m currently studying Computer Science
