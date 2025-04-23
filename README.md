@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Alvaro Gonzalia</h1>
+ <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Alvaro+Gonzalía;" alt="Typing SVG">
+    </a>
+  </h1>
 <h3 align="center">Mobile & Backend Developer - Computer Science student</h3>
 	
 
-- 🌱 I’m currently studying Computer Science
-- 💬 Ask me about **Python** and **TypeScript**
+- 🌱 I’m currently working as a Mobile and Backend developer
+- 💬 Ask me about **C#** and **TypeScript**
 
-### 🛠 &nbsp;Languages and Tools
+### 💻 &nbsp;Languages
 ![TypeScript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=lightblue)
-![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br/>
 
-### 🛠 &nbsp;Frameworks
+### 📚 &nbsp;Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=node.js&logoColor=green)
-![FastAPI](https://img.shields.io/badge/fastapi-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-00599C?style=for-the-badge&logo=django&logoColor=green)
+![Node](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=node.js&logoColor=green)
+![Express](https://img.shields.io/badge/express-00599C?style=for-the-badge&logo=express&logoColor=lightblue)
+![.NET](https://img.shields.io/badge/.NET-00599C?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🛠 &nbsp;Tools
+![Bitbucket](https://img.shields.io/badge/bitbucket-00599C?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-00599C?style=for-the-badge&logo=android&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-00599C?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-00599C?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
