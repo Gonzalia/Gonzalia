@@ -7,18 +7,19 @@
 	
 
 - 🌱 I’m currently working as a Mobile and Backend developer
-- 💬 Ask me about **C#** and **TypeScript**
+- 💬 Ask me about **Python** and **TypeScript**
 
 ### 💻 &nbsp;Languages
 ![TypeScript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=lightblue)
-![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 
 ### 📚 &nbsp;Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=node.js&logoColor=green)
 ![Express](https://img.shields.io/badge/express-00599C?style=for-the-badge&logo=express&logoColor=lightblue)
-![.NET](https://img.shields.io/badge/.NET-00599C?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-00599C?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🛠 &nbsp;Tools
 ![Bitbucket](https://img.shields.io/badge/bitbucket-00599C?style=for-the-badge&logo=Bitbucket&logoColor=white)
