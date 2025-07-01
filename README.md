@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently working as a Mobile and Backend developer
 - 💬 Ask me about **Python** and **TypeScript**
+- 🖥️ <a target="_blank" href="https://gonzaliaalvaro.netlify.app/">Visit my portfolio</a>
 
 ### 💻 &nbsp;Languages
 ![TypeScript](https://img.shields.io/badge/typescript-151515?style=for-the-badge&logo=typescript&logoColor=960000)
