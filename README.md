@@ -35,7 +35,6 @@
 <br/>
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
-### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
   <a href="mailto:gonzaliaalvaro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-000?style=for-the-badge&logoColor=00d1ff" alt="Email" /></a>
