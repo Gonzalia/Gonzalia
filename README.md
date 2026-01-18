@@ -1,5 +1,5 @@
 <h1 align="center">Alvaro Gonzalía</h1>
-<h3 align="center">Mobile & Backend Developer - Computer Science student</h3>
+<h3 align="center">Mobile & Backend Developer</h3>
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
