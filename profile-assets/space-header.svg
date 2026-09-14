@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Álvaro Gonzalía — Mobile &amp; Backend Developer</title>
+  <desc id="desc">A midnight-blue star field with an iPhone showing 9:41, mobile development cards and animated shooting stars.</desc>
+  <defs>
+    <radialGradient id="nebula" cx="80%" cy="45%" r="75%">
+      <stop stop-color="#12364b"/><stop offset=".55" stop-color="#0a1826"/><stop offset="1" stop-color="#060b12"/>
+    </radialGradient>
+    <linearGradient id="trail"><stop stop-color="#b7eeff"/><stop offset="1" stop-color="#77dcf5" stop-opacity="0"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#77dcf5" stop-opacity="0"/><stop offset=".5" stop-color="#77dcf5" stop-opacity=".5"/><stop offset="1" stop-color="#77dcf5" stop-opacity="0"/></linearGradient>
+    <pattern id="stars" width="287" height="193" patternUnits="userSpaceOnUse">
+      <g fill="#b1e7f7"><circle cx="19" cy="31" r="1" opacity=".5"/><circle cx="132" cy="16" r=".7" opacity=".4"/><circle cx="250" cy="69" r="1.3" opacity=".6"/><circle cx="84" cy="146" r=".8" opacity=".55"/><circle cx="211" cy="178" r=".7" opacity=".3"/><circle cx="172" cy="104" r="1" opacity=".35"/></g>
+    </pattern>
+    <linearGradient id="phone-metal" x2="1" y2="1"><stop stop-color="#8ca7b7"/><stop offset=".25" stop-color="#263b4b"/><stop offset=".7" stop-color="#102130"/><stop offset="1" stop-color="#7193a7"/></linearGradient>
+    <linearGradient id="phone-screen" x2="1" y2="1"><stop stop-color="#123047"/><stop offset="1" stop-color="#050c14"/></linearGradient>
+    <linearGradient id="phone-card" x2="1" y2="1"><stop stop-color="#20465d"/><stop offset="1" stop-color="#11283d"/></linearGradient>
+    <radialGradient id="phone-halo"><stop stop-color="#2a97c3" stop-opacity=".24"/><stop offset="1" stop-color="#2a97c3" stop-opacity="0"/></radialGradient>
+    <pattern id="phone-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#77dcf5" stroke-opacity=".045"/></pattern>
+  </defs>
+  <style>
+    .phone-float { animation: phone-float 7s ease-in-out infinite; }
+    @keyframes phone-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    .meteor { opacity: 0; animation: flight 9s linear infinite; }
+    .second { animation-delay: 4.5s; }
+    .twinkle { animation: shimmer 5s ease-in-out infinite alternate; }
+    @keyframes flight {
+      0%, 6% { opacity: 0; transform: translate(0, 0); }
+      9% { opacity: .9; }
+      23% { opacity: 0; transform: translate(-330px, 165px); }
+      100% { opacity: 0; transform: translate(-330px, 165px); }
+    }
+    @keyframes shimmer { from { opacity: .35; } to { opacity: .9; } }
+    @media (prefers-reduced-motion: reduce) {
+      .meteor, .phone-float { animation: none; }
+      .twinkle { animation: none; opacity: .7; }
+    }
+  </style>
+  <rect width="1200" height="420" rx="20" fill="url(#nebula)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#stars)"/>
+  <ellipse cx="958" cy="211" rx="196" ry="190" fill="url(#phone-halo)"/>
+  <g class="phone-float">
+    <g transform="translate(870 39) rotate(-8 88 172)" font-family="monospace">
+      <rect x="6" y="10" width="176" height="344" rx="30" fill="#02070d" opacity=".45"/>
+      <rect x="-2" y="71" width="3" height="37" rx="1.5" fill="#728fa3"/>
+      <rect x="175" y="87" width="3" height="32" rx="1.5" fill="#728fa3"/>
+      <rect width="176" height="344" rx="30" fill="url(#phone-metal)" stroke="#9ab9cb"/>
+      <rect x="4" y="4" width="168" height="336" rx="27" fill="#0b1520"/>
+      <rect x="6" y="6" width="164" height="332" rx="25" fill="url(#phone-screen)" stroke="#02080e"/>
+      <rect x="6" y="6" width="164" height="332" rx="25" fill="url(#phone-grid)"/>
+      <!-- Decorative time: README images cannot read the viewer's device clock. -->
+      <text x="19" y="26" font-size="9" fill="#bdd6e5">9:41</text>
+      <rect x="62" y="14" width="51" height="15" rx="8" fill="#020509"/>
+      <circle cx="104" cy="21.5" r="2" fill="#112b42"/>
+      <g fill="#bdd6e5"><rect x="125" y="23" width="2" height="3"/><rect x="129" y="20" width="2" height="6"/><rect x="133" y="17" width="2" height="9"/><rect x="141" y="18" width="14" height="8" rx="2" fill="none" stroke="#bdd6e5"/><rect x="143" y="20" width="10" height="4" rx="1"/><rect x="156" y="20" width="2" height="4" rx="1"/></g>
+      <text x="88" y="96" text-anchor="middle" font-size="34" fill="#77dcf5">&lt;/&gt;</text>
+      <rect x="19" y="121" width="138" height="62" rx="10" fill="url(#phone-card)" stroke="#77dcf5" stroke-opacity=".36"/>
+      <text x="31" y="142" font-size="6.5" letter-spacing=".8" fill="#8fc8dc">01 / DEVELOPMENT</text>
+      <text x="31" y="164" font-size="14" fill="#d4f5ff">Mobile Dev</text>
+      <rect x="19" y="195" width="138" height="62" rx="10" fill="#152339" stroke="#557a9a" stroke-opacity=".4"/>
+      <text x="31" y="219" font-size="12" fill="#d4f5ff">Indie Game Dev</text>
+      <circle cx="33" cy="239" r="2" fill="#77dcf5"/>
+      <text x="42" y="242" font-size="8" fill="#9fc0d8">En curso</text>
+      <g transform="translate(70 273) scale(.58)" fill="none" stroke="#77dcf5" stroke-width="2" opacity=".7">
+        <path d="M20 8h24c8 0 12 9 14 21s-7 15-13 7l-5-6H24l-5 6C13 44 4 41 6 29S12 8 20 8Z"/>
+        <path d="M20 15v12m-6-6h12" stroke-linecap="round"/>
+        <circle cx="44" cy="17" r="2" fill="#77dcf5"/><circle cx="49" cy="23" r="2" fill="#77dcf5"/>
+      </g>
+      <rect x="62" y="327" width="52" height="3" rx="1.5" fill="#bdd6e5" opacity=".7"/>
+    </g>
+  </g>
+  <g class="twinkle" fill="#b7eeff">
+    <circle cx="1070" cy="130" r="4"/><circle cx="824" cy="287" r="3"/>
+    <path d="M720 86h12m-6-6v12M1090 331h10m-5-5v10" stroke="#b7eeff" stroke-width="1.5"/>
+  </g>
+  <g class="meteor"><path d="M740 42l120-60" stroke="url(#trail)" stroke-width="2"/><circle cx="740" cy="42" r="2" fill="#d5f5ff"/></g>
+  <g class="meteor second"><path d="M1090 84l120-60" stroke="url(#trail)" stroke-width="2"/><circle cx="1090" cy="84" r="2" fill="#d5f5ff"/></g>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="72" y="87" font-family="monospace" font-size="13" letter-spacing="3" fill="#77dcf5">HELLO WORLD</text>
+    <text x="68" y="174" font-size="72" font-weight="600" letter-spacing="-3" fill="#e6edf5">Álvaro</text>
+    <text x="68" y="253" font-size="80" font-weight="600" letter-spacing="-3" fill="#77dcf5">Gonzalía<tspan fill="#e6edf5">.</tspan></text>
+    <text x="72" y="300" font-size="21" fill="#b2c6d7">Mobile &amp; Backend Developer</text>
+    <circle cx="77" cy="348" r="4" fill="#77dcf5"/>
+    <text x="94" y="353" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#8998ab">MOBILE DEV / EXPLORING GAME DEV</text>
+  </g>
+  <path d="M60 397h1080" stroke="url(#edge)"/>
+</svg>
