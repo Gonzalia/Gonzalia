@@ -76,7 +76,7 @@
   <g font-family="'Segoe UI', Arial, sans-serif">
     <text x="72" y="87" font-family="monospace" font-size="13" letter-spacing="3" fill="#77dcf5">HELLO WORLD</text>
     <text x="68" y="174" font-size="72" font-weight="600" letter-spacing="-3" fill="#e6edf5">Álvaro</text>
-    <text x="68" y="253" font-size="80" font-weight="600" letter-spacing="-3" fill="#77dcf5">Gonzalía<tspan fill="#e6edf5">.</tspan></text>
+    <text x="68" y="253" font-size="80" font-weight="600" letter-spacing="-3" fill="#77dcf5">Gonzalía</text>
     <text x="72" y="300" font-size="21" fill="#b2c6d7">Mobile &amp; Backend Developer</text>
     <circle cx="77" cy="348" r="4" fill="#77dcf5"/>
     <text x="94" y="353" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#8998ab">MOBILE DEV / EXPLORING GAME DEV</text>
